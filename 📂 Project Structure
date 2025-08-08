@@ -1,1 +1,9 @@
-
+lib/
+├── main.dart # App entry point
+├── expense.dart # Data model
+├── expenses.dart # Main layout
+├── chart.dart # Chart section
+├── chart_bar.dart # Chart bar widget
+├── new_expense.dart # Add new expense modal
+├── expenses_item.dart # UI for single expense
+├── expenses_list.dart # Expense list widget
