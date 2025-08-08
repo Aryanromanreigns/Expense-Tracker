@@ -23,7 +23,8 @@ A beginner-friendly, open-source **Flutter application** to manage and visualize
 
 ### Run Locally
 ```bash
-git clone https://github.com/yourusername/flutter_expense_tracker.git
-cd flutter_expense_tracker
+git clone https://github.com/Aryanromanreigns/Expense-Tracker.git
+cd Expense-Tracker
 flutter pub get
 flutter run
+
